@@ -29,6 +29,14 @@
 		904D478E1F82DBBB008D61B2 /* logo402.png in Resources */ = {isa = PBXBuildFile; fileRef = 904D477E1F82DBBB008D61B2 /* logo402.png */; };
 		904D478F1F82DBBB008D61B2 /* Main.png in Resources */ = {isa = PBXBuildFile; fileRef = 904D477F1F82DBBB008D61B2 /* Main.png */; };
 		904D47901F82DBBB008D61B2 /* Miranda Lambert.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 904D47801F82DBBB008D61B2 /* Miranda Lambert.jpg */; };
+		906A3CB2217E721C00F77D22 /* The Weeknd- Trilogy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 906A3CAA217E721C00F77D22 /* The Weeknd- Trilogy.jpg */; };
+		906A3CB3217E721C00F77D22 /* Drake- Views.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 906A3CAB217E721C00F77D22 /* Drake- Views.jpg */; };
+		906A3CB4217E721C00F77D22 /* Lana Del Rey- Ultraviolence.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 906A3CAC217E721C00F77D22 /* Lana Del Rey- Ultraviolence.jpg */; };
+		906A3CB5217E721C00F77D22 /* Lana Del Rey- Born to Die.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 906A3CAD217E721C00F77D22 /* Lana Del Rey- Born to Die.jpg */; };
+		906A3CB6217E721C00F77D22 /* Beyonce- LEMONADE.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 906A3CAE217E721C00F77D22 /* Beyonce- LEMONADE.jpg */; };
+		906A3CB7217E721C00F77D22 /* JAY-Z & Kanye West- Watch the Throne.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 906A3CAF217E721C00F77D22 /* JAY-Z & Kanye West- Watch the Throne.jpg */; };
+		906A3CB8217E721C00F77D22 /* Kanye West- Graduation.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 906A3CB0217E721C00F77D22 /* Kanye West- Graduation.jpg */; };
+		906A3CB9217E721C00F77D22 /* Kodak Black- Heart Break Kodak.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 906A3CB1217E721C00F77D22 /* Kodak Black- Heart Break Kodak.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +64,14 @@
 		904D477E1F82DBBB008D61B2 /* logo402.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo402.png; sourceTree = "<group>"; };
 		904D477F1F82DBBB008D61B2 /* Main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Main.png; sourceTree = "<group>"; };
 		904D47801F82DBBB008D61B2 /* Miranda Lambert.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Miranda Lambert.jpg"; sourceTree = "<group>"; };
+		906A3CAA217E721C00F77D22 /* The Weeknd- Trilogy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "The Weeknd- Trilogy.jpg"; sourceTree = "<group>"; };
+		906A3CAB217E721C00F77D22 /* Drake- Views.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Drake- Views.jpg"; sourceTree = "<group>"; };
+		906A3CAC217E721C00F77D22 /* Lana Del Rey- Ultraviolence.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lana Del Rey- Ultraviolence.jpg"; sourceTree = "<group>"; };
+		906A3CAD217E721C00F77D22 /* Lana Del Rey- Born to Die.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lana Del Rey- Born to Die.jpg"; sourceTree = "<group>"; };
+		906A3CAE217E721C00F77D22 /* Beyonce- LEMONADE.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Beyonce- LEMONADE.jpg"; sourceTree = "<group>"; };
+		906A3CAF217E721C00F77D22 /* JAY-Z & Kanye West- Watch the Throne.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "JAY-Z & Kanye West- Watch the Throne.jpg"; sourceTree = "<group>"; };
+		906A3CB0217E721C00F77D22 /* Kanye West- Graduation.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Kanye West- Graduation.jpg"; sourceTree = "<group>"; };
+		906A3CB1217E721C00F77D22 /* Kodak Black- Heart Break Kodak.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Kodak Black- Heart Break Kodak.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +119,14 @@
 		904D47701F82DB76008D61B2 /* photos */ = {
 			isa = PBXGroup;
 			children = (
+				906A3CAD217E721C00F77D22 /* Lana Del Rey- Born to Die.jpg */,
+				906A3CB0217E721C00F77D22 /* Kanye West- Graduation.jpg */,
+				906A3CB1217E721C00F77D22 /* Kodak Black- Heart Break Kodak.jpg */,
+				906A3CAE217E721C00F77D22 /* Beyonce- LEMONADE.jpg */,
+				906A3CAF217E721C00F77D22 /* JAY-Z & Kanye West- Watch the Throne.jpg */,
+				906A3CAA217E721C00F77D22 /* The Weeknd- Trilogy.jpg */,
+				906A3CAC217E721C00F77D22 /* Lana Del Rey- Ultraviolence.jpg */,
+				906A3CAB217E721C00F77D22 /* Drake- Views.jpg */,
 				904D47711F82DBBB008D61B2 /* 38 Special.jpg */,
 				904D47721F82DBBB008D61B2 /* 45647127.jpg */,
 				904D47731F82DBBB008D61B2 /* Band Perry.jpg */,
@@ -182,22 +206,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				906A3CB3217E721C00F77D22 /* Drake- Views.jpg in Resources */,
 				904D478F1F82DBBB008D61B2 /* Main.png in Resources */,
+				906A3CB9217E721C00F77D22 /* Kodak Black- Heart Break Kodak.jpg in Resources */,
 				904D47841F82DBBB008D61B2 /* Eagles.jpg in Resources */,
+				906A3CB8217E721C00F77D22 /* Kanye West- Graduation.jpg in Resources */,
 				904D478E1F82DBBB008D61B2 /* logo402.png in Resources */,
 				904D47831F82DBBB008D61B2 /* Band Perry.jpg in Resources */,
 				904D47851F82DBBB008D61B2 /* Joe Cocker.jpg in Resources */,
 				904D478B1F82DBBB008D61B2 /* logo291.png in Resources */,
+				906A3CB4217E721C00F77D22 /* Lana Del Rey- Ultraviolence.jpg in Resources */,
 				904D478D1F82DBBB008D61B2 /* logo401.png in Resources */,
 				904D47901F82DBBB008D61B2 /* Miranda Lambert.jpg in Resources */,
 				904D478A1F82DBBB008D61B2 /* logo152.png in Resources */,
 				904D47821F82DBBB008D61B2 /* 45647127.jpg in Resources */,
 				904D47691F82D7A6008D61B2 /* LaunchScreen.storyboard in Resources */,
+				906A3CB7217E721C00F77D22 /* JAY-Z & Kanye West- Watch the Throne.jpg in Resources */,
 				904D47871F82DBBB008D61B2 /* Leonard Skynard.jpg in Resources */,
+				906A3CB2217E721C00F77D22 /* The Weeknd- Trilogy.jpg in Resources */,
 				904D478C1F82DBBB008D61B2 /* logo292.png in Resources */,
+				906A3CB6217E721C00F77D22 /* Beyonce- LEMONADE.jpg in Resources */,
 				904D47811F82DBBB008D61B2 /* 38 Special.jpg in Resources */,
 				904D47661F82D7A6008D61B2 /* Assets.xcassets in Resources */,
 				904D47881F82DBBB008D61B2 /* Little Big Town.jpg in Resources */,
+				906A3CB5217E721C00F77D22 /* Lana Del Rey- Born to Die.jpg in Resources */,
 				904D47641F82D7A6008D61B2 /* Main.storyboard in Resources */,
 				904D47861F82DBBB008D61B2 /* Journey.jpg in Resources */,
 				904D47891F82DBBB008D61B2 /* logo76.png in Resources */,
